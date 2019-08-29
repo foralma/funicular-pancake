@@ -11,5 +11,5 @@ Next, a random number word will be given, no greater than the highest number you
 aloud to your child and ask him or her to type it with the digt keys. Your child gets two chances to answer correctly
 before a new random number is given.
 
-After your child answers a certain number correctly, he or she can see the cat gifs by typing the word "cat". If
-a different word is entered, a page of puppy gifs appears instead.
+After your child answers the target number of questions correctly, he or she can see the cat gifs by typing the word "cat".
+If a different word is entered, a page of puppy gifs appears instead.
