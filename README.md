@@ -4,7 +4,7 @@ This is a console window game to help preschoolers associate number words with t
 After your child answers a target number of questions correctly (target chosen by you), a browswer tab with cat
 gifs on giphy.com will appear.
 
-When prompted, you or your child enter's the child's name, the highest number he or she can count to, and the number
+When prompted, you or your child will enter the child's name, the highest number he or she can count to, and the number
 of questions that must be answered correctly to see the cat gifs.
 
 Next, a random number word will be given, no greater than the highest number your child can count to. Read the number
